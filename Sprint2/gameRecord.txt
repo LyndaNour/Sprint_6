@@ -1,0 +1,78 @@
+Blue player turn
+blue player selected to be a human
+Blue player places S at (0, 0)
+Red player selected to be a computer
+Red player computer places O at (2, 2)
+Blue player selected to be a computer
+Blue player computer places S at (2, 2)
+Blue player selected to be a computer
+Blue player computer places S at (2, 1)
+Red player selected to be a computer
+Red player computer places O at (2, 2)
+Red player selected to be a computer
+Red player computer places O at (0, 0)
+Red player selected to be a computer
+Red player computer places O at (2, 0)
+Blue player selected to be a computer
+Blue player computer places S at (1, 2)
+Red player selected to be a computer
+Red player computer places O at (2, 2)
+Red player selected to be a computer
+Red player computer places O at (0, 2)
+Blue player selected to be a computer
+Blue player computer places S at (0, 0)
+Blue player selected to be a computer
+Blue player computer places S at (2, 1)
+Blue player selected to be a computer
+Blue player computer places S at (1, 1)
+Red player selected to be a computer
+Red player computer places O at (1, 2)
+Red player selected to be a computer
+Red player computer places O at (2, 2)
+Red player selected to be a computer
+Red player computer places O at (1, 2)
+Red player selected to be a computer
+Red player computer places O at (2, 1)
+Red player selected to be a computer
+Red player computer places O at (1, 2)
+Red player selected to be a computer
+Red player computer places O at (1, 2)
+Red player selected to be a computer
+Red player computer places O at (2, 1)
+Red player selected to be a computer
+Red player computer places O at (1, 1)
+Red player selected to be a computer
+Red player computer places O at (1, 2)
+Red player selected to be a computer
+Red player computer places O at (0, 1)
+Blue player selected to be a computer
+Blue player computer places S at (1, 2)
+Blue player selected to be a computer
+Blue player computer places S at (2, 1)
+Blue player selected to be a computer
+Blue player computer places S at (2, 1)
+Blue player selected to be a computer
+Blue player computer places S at (0, 2)
+Blue player selected to be a computer
+Blue player computer places S at (1, 2)
+Blue player selected to be a computer
+Blue player computer places S at (0, 2)
+Blue player selected to be a computer
+Blue player computer places S at (0, 0)
+Blue player selected to be a computer
+Blue player computer places S at (2, 1)
+Blue player selected to be a computer
+Blue player computer places S at (2, 1)
+Blue player selected to be a computer
+Blue player computer places S at (0, 2)
+Blue player selected to be a computer
+Blue player computer places S at (1, 2)
+Blue player selected to be a computer
+Blue player computer places S at (0, 2)
+Blue player selected to be a computer
+Blue player computer places S at (0, 0)
+Blue player selected to be a computer
+Blue player computer places S at (2, 1)
+Blue player selected to be a computer
+Blue player computer places S at (1, 0)
+Draw in general game!
